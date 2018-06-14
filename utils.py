@@ -10,6 +10,8 @@
 
 # ----------------
 # http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html
+# example with many orders and plot, + plot of traning data
+# http://scikit-learn.org/stable/auto_examples/linear_model/plot_polynomial_interpolation.html
 # ----------------
 
 
